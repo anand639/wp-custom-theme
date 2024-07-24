@@ -3,5 +3,13 @@
         
         "*.php",
         "*.phtml"
-    ]
+    ],
+    "accessibility.signals.lineHasBreakpoint": {
+        "announcement": "off",
+        "sound": "off"
+    },
+    "accessibility.signals.onDebugBreak": {
+        "sound": "off",
+        "announcement": "off"
+    }
 }
